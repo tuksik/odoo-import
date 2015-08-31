@@ -4,3 +4,6 @@
 [submodule "connector-interfaces"]
 	path = connector-interfaces
 	url = https://github.com/OCA/connector-interfaces.git
+[submodule "ea_import"]
+	path = ea_import
+	url = https://github.com/enapps/ea_import.git

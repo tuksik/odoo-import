@@ -1,3 +1,6 @@
 [submodule "edgdd"]
 	path = edgdd
 	url = https://github.com/tuksik/edgdd.git
+[submodule "connector-interfaces"]
+	path = connector-interfaces
+	url = https://github.com/OCA/connector-interfaces.git

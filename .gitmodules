@@ -1,0 +1,3 @@
+[submodule "edgdd"]
+	path = edgdd
+	url = https://github.com/tuksik/edgdd.git
